@@ -1,0 +1,17 @@
+sudo apt-get install git
+
+git --version
+
+mkdir linux3
+
+cd linux3
+
+git init
+
+git config --list
+
+git add --all
+
+git status
+
+
